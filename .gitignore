@@ -34,4 +34,4 @@ out/
 .vscode/
 
 ### Properties ###
-/src/resources/application-db.properties
+/src/main/resources/application-db.properties
